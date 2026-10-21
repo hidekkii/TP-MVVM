@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Filmes Favoritos</string>
+    <string name="novo_filme">Novo filme</string>
+    <string name="editar_filme">Editar filme</string>
+    <string name="nome">Nome do filme</string>
+    <string name="url_foto">URL da foto</string>
+    <string name="nota">Nota</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="excluir">Excluir</string>
+    <string name="lista_vazia">Nenhum filme ainda. Toque em + para adicionar.</string>
+    <string name="erro_nome">Digite o nome do filme</string>
+</resources>
